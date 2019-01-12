@@ -16,10 +16,10 @@
 #
 map:{
     ; driver   = com.mysql.jdbc.Driver
-    ; url      = jdbc:mysql://localhost:3306/maihamadb
+    ; url      = jdbc:mysql://127.0.0.1:3309/hakiba_db
     ; schema   = 
-    ; user     = maihamadb
-    ; password = maihamadb
+    ; user     = hakiba_user
+    ; password = password
 
     # /- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     # o propertiesMap: (NotRequired - Default map:{})
